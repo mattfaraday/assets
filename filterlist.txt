@@ -1,0 +1,10 @@
+!
+! Title: Matt F's block list
+! Description: A list of sites to block with hosts files or tools such as AdGuard etc 
+! Homepage: https://github.com/mattfaraday/assets/filterlist.txt
+
+# These are just sites I personally want to block. 
+
+
+# [lottery.co.uk]
+127.0.0.1 lottery.co.uk
